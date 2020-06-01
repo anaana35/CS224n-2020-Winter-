@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c769a01-f143-4f1b-9405-7ddd8d3ac2ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b7IFsEbbovkjm7aBDugFi9o26x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../week6/Assignment" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c769a01-f143-4f1b-9405-7ddd8d3ac2ad" name="Default Changelist" comment="" />
+      <created>1587976604910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587976604910</updated>
+      <workItem from="1587976615768" duration="12634000" />
+      <workItem from="1587991886883" duration="5445000" />
+      <workItem from="1588035471929" duration="14264000" />
+      <workItem from="1588079972692" duration="3421000" />
+      <workItem from="1588212036763" duration="22000" />
+      <workItem from="1588397310945" duration="9000" />
+      <workItem from="1588402898560" duration="1921000" />
+      <workItem from="1588431533473" duration="1357000" />
+      <workItem from="1588475127325" duration="948000" />
+      <workItem from="1588478095224" duration="643000" />
+      <workItem from="1588588655428" duration="867000" />
+      <workItem from="1588590302022" duration="1593000" />
+      <workItem from="1589452544924" duration="84000" />
+      <workItem from="1589452910685" duration="6000" />
+      <workItem from="1589453971119" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1589453999708">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589453999708" />
+    <state x="186" y="79" key="SettingsEditor" timestamp="1587976698144">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1587976698144" />
+    <state x="368" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1589453971799">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="368" y="261" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1589453971799" />
+  </component>
+</project>
